@@ -1,10 +1,10 @@
 class Cntui < Formula
   desc "Terminal UI for Apple's container runtime"
   homepage "https://github.com/nycjay/cntui"
-  url "https://github.com/nycjay/cntui/releases/download/v0.2.0/cntui-darwin-arm64.tar.gz"
-  sha256 "ea9b04fd3e04f4d85d1e9e242155bfaffbb10b799aea668980e977483da02287"
+  url "https://github.com/nycjay/cntui/releases/download/v0.3.0/cntui-darwin-arm64.tar.gz"
+  sha256 "1d5be6a059ee3a8032cf352b24e8e819b11b1caafd2d458616a4326c87dcd573"
   license "MIT"
-  version "0.2.0"
+  version "0.3.0"
 
   depends_on :macos
 
