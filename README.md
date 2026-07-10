@@ -1,16 +1,18 @@
-# Homebrew Tap for cntui
+# Homebrew Tap
 
-Terminal UI for Apple's container runtime.
+Personal tap for CLI tools.
 
 ## Install
 
 ```bash
 brew tap nycjay/tap
-brew install cntui
+brew install covername    # Document anonymization tool
+brew install cntui        # Container runtime TUI
 ```
 
 ## Update
 
 ```bash
+brew upgrade covername
 brew upgrade cntui
 ```
